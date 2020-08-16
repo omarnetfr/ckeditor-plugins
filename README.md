@@ -1,5 +1,6 @@
 # CKEditor plugins repository
 
+Lorem Ipsum plugin it's a plugin that allow user to generate text easily just with few clicks to choose the number of paragraph.
 
 ## Lorem Ipsum plugin (http://ckeditor.com/addon/loremipsum) :
 
